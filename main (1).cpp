@@ -1,11 +1,7 @@
 
  #include <stdio.h>
- #include <stdlib.h>
- #include <conio.h>
  #include <iostream>
- #include <math.h>
- #include <string.h>
- 
+
  int main()
  {
  	int v=6,c1=0,c2=0,c3=0,c4=0,nul=0,total,st;
